@@ -224,47 +224,72 @@ By the end of this course, students will be able to:
   - Integration with Git repositories
   - Automated testing in pipelines
 
+#### Week 10-11: Infrastructure as Code
 - **Day 31:** CICD - Jenkins - Project
-  - Two tier project deployment using Docker, Github, Webhook in CICD pipeline on EC2 
+  - Two tier project deployment using Docker, Github, Webhook in CICD pipeline on EC2
+  - Jenkins shared libraries and pipeline optimization
+  - Blue-green deployment strategies
+  - Pipeline monitoring and troubleshooting
  
 - **Day 32:** IAC-Terraform
   - Terraform basics and infrastructure as code
   - Resource provisioning and state management
   - Terraform modules and best practices
+  - HCL syntax and configuration files
+  - Terraform providers and resources
 
-- **Day 33:** IAC-Terraform
+- **Day 33:** IAC-Terraform Advanced
   - Terraform with AWS services integration
   - Remote state management and team collaboration
   - Terraform Cloud and automation
+  - Terraform workspaces and environments
+  - State locking and backend configuration
 
 - **Day 34:** IAC-Terraform Project
   - End-to-end infrastructure deployment
   - Multi-environment setup (dev, staging, prod)
   - Infrastructure testing and validation
+  - Terraform modules for reusability
+  - Cost optimization and resource tagging
 
+#### Week 12-13: Container Orchestration
 - **Day 35:** Container Orchestration - Kubernetes
   - Kubernetes architecture and components
   - Pods, services, and deployments
   - Basic kubectl commands and cluster management
+  - ConfigMaps and Secrets management
+  - Kubernetes networking concepts
 
-- **Day 36:** Minikube setup on local 
+- **Day 36:** Minikube setup on local
+  - Minikube installation and configuration
   - React project deployment using Docker hub
   - Auto-scaling and resource management in local
+  - Local development workflow with Kubernetes
+  - Debugging and troubleshooting pods
   
-- **Day 37:** Container Orchestration - Kubeduim installation 
-  - Kubedium setup on Cloud
-  - Deployment of web-app on Kubedium using Yaml 
+- **Day 37:** Container Orchestration - Kubeadm installation
+  - Kubeadm setup on Cloud (multi-node cluster)
+  - Deployment of web-app on Kubeadm using YAML
+  - Cluster networking with CNI plugins
+  - Node management and cluster scaling
+  - RBAC and security configurations
 
 - **Day 38:** Container Orchestration - EKS
-  - Setup EKS on AWS and deployment of web-app using Helm 
+  - Setup EKS on AWS and deployment of web-app using Helm
   - Auto-scaling and resource management
   - Production deployment strategies
+  - EKS node groups and Fargate profiles
+  - AWS Load Balancer Controller integration
 
-- **Day 39:** Container Orchestration - Kubernetes
+- **Day 39:** Container Orchestration - Kubernetes Advanced
   - Kubernetes monitoring and logging
+  - Persistent volumes and storage classes
+  - Ingress controllers and traffic management
+  - Helm charts and package management
+  - GitOps with ArgoCD/Flux
  
 
-### **Module 5: Monitoring & Logging (Weeks 14)**
+### **Module 5: Monitoring & Logging (Week 14)**
 
 #### Monitoring & Observability
 - **Day 40:** CloudWatch Fundamentals
@@ -273,36 +298,48 @@ By the end of this course, students will be able to:
   - CloudWatch logs and log groups
   - CloudWatch insights and log queries
   - CloudWatch events and event rules
+  - SNS integration for alerting
+  - Cost monitoring and billing alerts
 
-- **Day 41:** Grafana
+- **Day 41:** Advanced Monitoring - Grafana & Prometheus
   - Grafana installation and configuration
   - Dashboard creation and visualization
   - Data source integration (CloudWatch, Prometheus)
   - Alerting and notification setup
   - Performance monitoring best practices
+  - Prometheus metrics collection
+  - Custom dashboards for applications
 
-#### Week 16: Final Projects & Certification Prep
+### **Module 6: Final Projects & Certification Prep (Week 15-16)**
 
+#### Week 15: Capstone Projects
 - **Day 42:** Project Planning & Architecture
   - Project requirements analysis and scope definition
   - Architecture design and system planning
   - Implementation planning and timeline
   - Team collaboration and project management
   - Risk assessment and mitigation strategies
+  - Technology stack selection
+  - Security and compliance considerations
 
 - **Day 43:** Project Implementation & Deployment
-  - Building complete DevOps pipeline with CI/CD 
+  - Building complete DevOps pipeline with CI/CD
   - Infrastructure deployment using Terraform/CloudFormation
-  - Application deployment on EKS using Helm char and configuration
+  - Application deployment on EKS using Helm charts and configuration
   - Testing and validation (unit, integration, performance)
   - Monitoring and alerting setup
+  - Documentation and runbooks
+  - Performance optimization and scaling
 
+#### Week 16: Final Assessment & Career Preparation
 - **Day 44:** Project Presentation & Certification Prep
   - Project demonstrations and presentations
   - AWS certification overview and exam paths
   - Exam preparation strategies and study plans
   - Course wrap-up and next steps
   - Industry best practices and career guidance
+  - Resume building for DevOps roles
+  - Interview preparation and technical discussions
 
 
   ## 🎓 Certification Path
