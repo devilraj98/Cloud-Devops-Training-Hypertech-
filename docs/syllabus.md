@@ -206,65 +206,75 @@ By the end of this course, students will be able to:
   - Hosting website using Docker and Nginx
 
 - **Day 27:** Two Tier Project using Docker
-  - Project setup for Frontend and backend
+  - Project setup for Frontend and backend using docker Network(Mysql and Node) 
   - Docker Network
 
-- **Day 27:** CICD - Jenkins
+- **Day 28:** Docker Vol and Docker Composer
+  - Project with Docker Volume
+  - Docker Compose
+
+
+- **Day 29:** CICD - Jenkins
   - Jenkins installation and configuration
   - Pipeline creation and management
   - Build automation and deployment
   
-- **Day 28:** CICD - Jenkins
+- **Day 30:** CICD - Jenkins
   - Multi-stage pipelines
   - Integration with Git repositories
   - Automated testing in pipelines
 
-- **Day 29:** CICD - Jenkins - Project
-  - Jenkins security and user management
-  - Plugin management and best practices
-  - Pipeline optimization and monitoring
-
-- **Day 30:** IAC-Terraform
+- **Day 31:** CICD - Jenkins - Project
+  - Two tier project deployment using Docker, Github, Webhook in CICD pipeline on EC2 
+ 
+- **Day 32:** IAC-Terraform
   - Terraform basics and infrastructure as code
   - Resource provisioning and state management
   - Terraform modules and best practices
 
-- **Day 31:** IAC-Terraform
+- **Day 33:** IAC-Terraform
   - Terraform with AWS services integration
   - Remote state management and team collaboration
   - Terraform Cloud and automation
 
-- **Day 32:** IAC-Terraform Project
+- **Day 34:** IAC-Terraform Project
   - End-to-end infrastructure deployment
   - Multi-environment setup (dev, staging, prod)
   - Infrastructure testing and validation
 
-- **Day 33:** Container Orchestration - Kubernetes
+- **Day 35:** Container Orchestration - Kubernetes
   - Kubernetes architecture and components
   - Pods, services, and deployments
   - Basic kubectl commands and cluster management
 
-- **Day 34:** Container Orchestration - Kubernetes
-  - Advanced Kubernetes concepts (ConfigMaps, Secrets)
-  - Service mesh and networking
-  - Kubernetes on AWS (EKS) setup and configuration
+- **Day 36:** Minikube setup on local 
+  - React project deployment using Docker hub
+  - Auto-scaling and resource management in local
+  
+- **Day 37:** Container Orchestration - Kubeduim installation 
+  - Kubedium setup on Cloud
+  - Deployment of web-app on Kubedium using Yaml 
 
-- **Day 35:** Container Orchestration - Kubernetes
-  - Kubernetes monitoring and logging
+- **Day 38:** Container Orchestration - EKS
+  - Setup EKS on AWS and deployment of web-app using Helm 
   - Auto-scaling and resource management
   - Production deployment strategies
+
+- **Day 39:** Container Orchestration - Kubernetes
+  - Kubernetes monitoring and logging
+ 
 
 ### **Module 5: Monitoring & Logging (Weeks 14)**
 
 #### Monitoring & Observability
-- **Day 36:** CloudWatch Fundamentals
+- **Day 40:** CloudWatch Fundamentals
   - CloudWatch metrics and alarms
   - Custom metrics and dashboards
   - CloudWatch logs and log groups
   - CloudWatch insights and log queries
   - CloudWatch events and event rules
 
-- **Day 37:** Grafana
+- **Day 41:** Grafana
   - Grafana installation and configuration
   - Dashboard creation and visualization
   - Data source integration (CloudWatch, Prometheus)
@@ -273,21 +283,21 @@ By the end of this course, students will be able to:
 
 #### Week 16: Final Projects & Certification Prep
 
-- **Day 38:** Project Planning & Architecture
+- **Day 42:** Project Planning & Architecture
   - Project requirements analysis and scope definition
   - Architecture design and system planning
   - Implementation planning and timeline
   - Team collaboration and project management
   - Risk assessment and mitigation strategies
 
-- **Day 39:** Project Implementation & Deployment
-  - Building complete DevOps pipeline with CI/CD
+- **Day 43:** Project Implementation & Deployment
+  - Building complete DevOps pipeline with CI/CD 
   - Infrastructure deployment using Terraform/CloudFormation
-  - Application deployment and configuration
+  - Application deployment on EKS using Helm char and configuration
   - Testing and validation (unit, integration, performance)
   - Monitoring and alerting setup
 
-- **Day 40:** Project Presentation & Certification Prep
+- **Day 44:** Project Presentation & Certification Prep
   - Project demonstrations and presentations
   - AWS certification overview and exam paths
   - Exam preparation strategies and study plans
