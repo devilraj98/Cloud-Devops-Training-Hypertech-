@@ -1,4 +1,4 @@
-# AWS DevOps Batch 4 - Complete Documentation
+# AWS DevOps Batch 4 & 5 - Complete Documentation
 
 ## 📚 Overview
 This repository contains comprehensive documentation for AWS DevOps Batch 4 training program. The documentation covers syllabus, tools, practical implementations, and architectural diagrams.
