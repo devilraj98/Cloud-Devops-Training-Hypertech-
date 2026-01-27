@@ -493,10 +493,7 @@ A: Use CloudWatch metrics (PacketDropCount, BytesTransferred), VPC Flow Logs for
 
 ## 🚀 Next Steps
 
-- Day 16: Container Services (ECS, ECR, Docker)
-- Implement VPC Peering and Transit Gateway
-- Explore advanced networking patterns
-- Practice with different endpoint configurations
+- Day 16: LoadBalancer and AutoScaling Group
 
 ---
 
