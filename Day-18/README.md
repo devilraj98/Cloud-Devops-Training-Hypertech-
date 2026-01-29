@@ -537,7 +537,7 @@ A: Configure HTTPS listener on CLB with SSL certificate from ACM or uploaded cer
 ## 🚀 Next Steps
 
 - Day 19: Application Load Balancer Advanced Features
-- Day 20: Elastic IP and Advanced Networking
+- Day 20: AWS VPC - Prod level Project
 - Day 21: AWS Lambda and Serverless Computing
 
 ---
